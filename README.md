@@ -1,7 +1,7 @@
 # Support US
 
-https://www.patreon.com/c/EncryptedStudios98?view_as=patron&vanity=EncryptedStudios98
-paypal - nikkiiandrews1503@gmail.com
+https://www.patreon.com/c/EncryptedStudios98
+Paypal - nikkiiandrews1503@gmail.com
 
 # Byte Engine Downloads
 
