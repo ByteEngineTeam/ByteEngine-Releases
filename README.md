@@ -1,3 +1,8 @@
+# Support US
+
+https://www.patreon.com/c/EncryptedStudios98?view_as=patron&vanity=EncryptedStudios98
+paypal - nikkiiandrews1503@gmail.com
+
 # Byte Engine Downloads
 
 This repository contains compiled release packages and community tables only. Download the newest installer or portable ZIP from [Releases](../../releases/latest).
